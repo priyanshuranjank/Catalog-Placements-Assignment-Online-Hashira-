@@ -2,6 +2,7 @@
 # 🔐 Shamir Secret Sharing in Java
 
 This project implements **Shamir's Secret Sharing** algorithm in Java and uses **Gson** for JSON serialization and deserialization.
+## Output SnapShot
 
 ## ✅ Requirements
 - **Java 8** or higher
